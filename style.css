@@ -1,0 +1,46 @@
+#season1 h2{
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 50px;
+    color: darkgreen;
+}
+
+#title_epi{
+    text-decoration: none;
+    font-size:30px;
+    padding-top: 20px;
+    margin-left: 100px;
+    color:crimson;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+}
+#epi{
+    width: 200px;
+    height: 300px;
+    padding-top: 70px;
+}
+#info{
+    max-width: 500px;
+    font-size: 25px;
+    color:darkgoldenrod;
+    margin-left: 500px ;
+    margin-top: -100px;
+}
+.card{
+    margin-top: 20px;
+    border: solid;
+    border-color:chartreuse;
+    background-color: darkkhaki;
+    border-radius: 40px;
+}
+
+#heading{
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 50px;
+    color:brown;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    text-align: center;
+}
